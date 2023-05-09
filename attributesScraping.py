@@ -13,6 +13,4 @@ headAttributes = head.attrs
 print(head.attrs)
 print(headAttributes['class'])
 print(headAttributes['role'])
-
-
 print(soup.div.attrs)
